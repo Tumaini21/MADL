@@ -1,7 +1,7 @@
 # MADL
 Mobile App Development Lab
 ## Live Demo
-Run the app online: [Zapp.run Preview](https://zapp.run/r/your-project-id)
+Run the app online:[ [Zapp.run Preview](https://zapp.run/edit/flutter-zq2y0656q2z0?entry=lib/main.dart&file=assets/images)]
 
 ## Setup
 1. Clone this repo.
