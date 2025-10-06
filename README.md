@@ -6,4 +6,8 @@ Run the app online: [Zapp.run Preview](https://zapp.run/r/your-project-id)
 ## Setup
 1. Clone this repo.
 2. Run `flutter pub get`.
-3. Run `flutter run -d chrome`.
+3. Run `flutter run -d chrome`.)
+
+
+## Aim
+To design Flutter UI by including common widgets (CO2).
